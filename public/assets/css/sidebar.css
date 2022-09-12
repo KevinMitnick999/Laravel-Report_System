@@ -1,0 +1,21 @@
+ul li span{
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1rem;
+} 
+
+ul li.menu-header {
+  /* font-size: 0.8rem !important; */
+  font-weight: 900 !important;
+  color: green !important;
+}
+
+.logo {
+  font-size: 1.2rem;
+  color: #6777ef !important;
+}
+
+.sidebar-brand {
+  margin: 1.5rem 0;
+}
+

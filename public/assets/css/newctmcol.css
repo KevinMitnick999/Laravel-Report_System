@@ -1,0 +1,76 @@
+
+.navbar .form-inline .btn {
+  padding: 15px 15px 14px 15px !important;
+}
+
+.table-editable {
+  position: relative;
+}
+.table-editable .glyphicon {
+  font-size: 20px;
+}
+
+.table-remove {
+  color: #700;
+  cursor: pointer;
+}
+.table-remove:hover {
+  color: #f00;
+}
+
+.table-up,
+.table-down {
+  color: #007;
+  cursor: pointer;
+}
+.table-up:hover,
+.table-down:hover {
+  color: #00f;
+}
+
+.table-add, .table-add2, .table-add3 {
+  color: #070;
+  cursor: pointer;
+  position: absolute;
+  top: 8px;
+  right: 0;
+}
+.table-add:hover, .table-add2:hover, .table-add3:hover {
+  color: #0b0;
+}
+
+select {
+  height: 3rem;
+}
+
+table {
+  font-size: 1.5rem;
+}
+
+
+/* sidebar */
+ul li span{
+  font-size: 1.3rem;
+  font-weight: 500;
+  line-height: 1.5rem;
+} 
+
+ul li.menu-header {
+  /* font-size: 0.8rem !important; */
+  font-weight: 900 !important;
+  color: green !important;
+}
+
+.logo {
+  font-size: 1.2rem;
+  color: #6777ef !important;
+}
+
+.sidebar-brand {
+  margin: 1.5rem 0;
+}
+
+
+.sub-container {
+  margin-top: 2rem;
+}
